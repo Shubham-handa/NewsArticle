@@ -32,5 +32,6 @@ Requirements
 
 Screenshots
 -----------
+<img src="https://github.com/Shubham-handa/NewsArticle/blob/main/S1.jpg" alt="Screenshot of the example app"/>
 
-
+![alt text](https://github.com/Shubham-handa/NewsArticle/blob/main/S2.jpg)

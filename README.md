@@ -3,7 +3,7 @@ NewsArticleApp
 
 [![Platform](http://img.shields.io/badge/platform-iOS-black.svg?style=flat)](https://developer.apple.com/resources/) [![Platform](https://img.shields.io/badge/swift-4.2-orange.svg?style=flat)](https://swift.org/blog/swift-5-released/) [![Xcode 9.0+](https://img.shields.io/badge/Xcode-9.0+-blue.svg?style=flat)](https://developer.apple.com/xcode)
 
-News Time is an iOS app that uses the NewsAPI.org APIs to provide top headlines and news articles of different countries.
+ Apple News is an iOS app that uses the NewsAPI.org APIs to provide top headlines and news articles of different countries.
 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/c/cb/IOS7_Logo.png)
